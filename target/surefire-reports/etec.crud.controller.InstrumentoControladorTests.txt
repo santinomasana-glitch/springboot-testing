@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: etec.crud.controller.InstrumentoControladorTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.105 s -- in etec.crud.controller.InstrumentoControladorTests
